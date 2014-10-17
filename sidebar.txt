@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kha:home|Door43 (kha)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kha|d43-kha repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kha/archive/master.zip|d43-kha.zip]]
+
+**Recent Changes**
+{{changes>ns = kha}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kha|Ethnologue data]]
+
